@@ -1,6 +1,8 @@
 #pragma once
 #include <utility>
 #include <cstddef>
+#include <boost/optional.hpp>
+
 template<typename T>
 class container_wrapper{
 public:
